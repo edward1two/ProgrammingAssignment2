@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 ## Week 3 Assignment GitHub user: edward1two
+## Creates a matrix representation with getter and setter functions for the data and the inverse.
 
 makeCacheMatrix <- function(x = matrix()) 
 {
